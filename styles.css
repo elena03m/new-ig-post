@@ -1,0 +1,63 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+}
+
+.container {
+    background-color: white;
+    width: 400px;
+    height: 700px;
+    margin:auto
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    font-size: 0.75rem;
+}
+
+.header i {
+    font-size: 1.5rem;
+}
+.image {
+    background-color: black;
+    
+}
+.image img {width: 100%;}
+
+.menuIcon {
+    margin-left: auto;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.Htmlicon{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.postname h4{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.postname p{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    font-size: 1.5rem;
+      }
+.bookmarK{
+    margin-left: auto;
+    margin-right: 10px;
+}
+.send{
+    margin-left: 5px;
+}
+.comment{
+    margin-left: 5px;
+}
+.heart{
+    margin-left: 5px;
+}
